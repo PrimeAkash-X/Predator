@@ -24,6 +24,14 @@ Create a free VPS with 2cpu-7gb Ram FREE with Github:
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 
+
+# Credentials
+
+Username: PrimeAkash
+
+Password: Aa1234567890
+
+
 If You face any problem . Feel free to Contact me on telegram 
 https://t.me/PrimeAkash
 
