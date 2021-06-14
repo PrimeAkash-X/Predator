@@ -2,6 +2,9 @@
 # Disclaimer:
 
 + Please Don't Abuse
++ Don't Mine CryptoCurrencies
++ Any illegal Operation not Allowed
++ If You do this ,Your Github Account Will be Banned & I will shutdown this repository
 
 # VPS FOR FREE
 
