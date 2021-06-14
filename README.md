@@ -1,4 +1,4 @@
-# Telegram : @PrimeAkash
+# Predator
 
 # Disclaimer:
 
